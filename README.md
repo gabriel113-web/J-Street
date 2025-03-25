@@ -24,7 +24,7 @@ Get it running in a few steps:
 
 1. **Clone It**  
 ```
-git clone https://github.com/your-username/j-street.git
+git clone https://github.com/Unnati-Gupta24/J-Street.git
 cd j-street
 ```
 
