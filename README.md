@@ -25,7 +25,7 @@ Get it running in a few steps:
 1. **Clone It**  
 ```
 git clone https://github.com/gabriel113-web/J-Street.git
-cd j-street
+cd J-Street
 ```
 
 2. **Install Stuff**
@@ -39,3 +39,5 @@ npm run dev
 ```
 
 Open http://localhost:5173 in your browser.
+https://j-street.vercel.app/
+
