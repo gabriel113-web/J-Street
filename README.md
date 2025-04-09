@@ -27,6 +27,7 @@ Get it running in a few steps:
 git clone https://github.com/gabriel113-web/J-Street.git
 cd J-Street
 ```
+sssss
 
 2. **Install Stuff**
 ```
